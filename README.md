@@ -18,6 +18,8 @@ En este repositorio encontrará los siguientes insumos técnicos:
 
 ---
 *Desarrollado como material académico complementario bajo los lineamientos de producción intelectual del Decreto 1279.*
+
 *Autores: Mag. Luz Amparo Mejía Castellanos; Mag. Olga Ines Ceballos Rincón; Ing. Santiago Sabogal Correa.*
+
 *Universidad del Quindío (2026)*
 
